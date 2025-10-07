@@ -7,6 +7,14 @@ export default function Card({ item }) {
         price += " Sale!"
     }
 
+    if(item.car){
+        // do something
+    }
+
+    // if (style contains 'logo') {
+    // do something
+    // }
+
     return (
         <div>
         <h2>{item.brand}</h2>

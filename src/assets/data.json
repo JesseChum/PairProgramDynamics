@@ -6,6 +6,7 @@
       "material": "80% cotton, 20% polyester",
       "style": "car graphic",
       "culture": "JDM streetwear",
+      "car": true,
       "price_usd": 75
     },
     {
@@ -15,6 +16,7 @@
       "material": "cotton blend",
       "style": "bold logo",
       "culture": "Toyota enthusiasts",
+      "car": true,
       "price_usd": 70
     },
     {
@@ -24,6 +26,7 @@
       "material": "fleece cotton",
       "style": "Japanese text print",
       "culture": "drift scene",
+      "car": false,
       "price_usd": 60
     },
     {
@@ -33,6 +36,7 @@
       "material": "poly-cotton blend",
       "style": "reflective street design",
       "culture": "street racing",
+      "car": false,
       "price_usd": 65
     },
     {
@@ -42,6 +46,7 @@
       "material": "cotton fleece",
       "style": "engine blueprint",
       "culture": "Mazda RX7 fans",
+      "car": true,
       "price_usd": 68
     },
     {
@@ -51,6 +56,7 @@
       "material": "100% cotton",
       "style": "minimalist logo",
       "culture": "Tokyo expressway runs",
+      "car": false,
       "price_usd": 72
     },
     {
@@ -60,6 +66,7 @@
       "material": "cotton-poly blend",
       "style": "car outline graphic",
       "culture": "Mitsubishi fans",
+      "car": true,
       "price_usd": 64
     },
     {
@@ -69,6 +76,7 @@
       "material": "fleece blend",
       "style": "anime-inspired",
       "culture": "Initial D enthusiasts",
+      "car": true,
       "price_usd": 69
     },
     {
@@ -78,6 +86,7 @@
       "material": "cotton blend",
       "style": "turbo design",
       "culture": "tuner culture",
+      "car": false,
       "price_usd": 66
     },
     {
@@ -87,6 +96,7 @@
       "material": "cotton-poly mix",
       "style": "Honda racing logo",
       "culture": "Honda community",
+      "car": true,
       "price_usd": 63
     },
     {
@@ -96,6 +106,7 @@
       "material": "soft fleece",
       "style": "JDM text print",
       "culture": "import scene",
+      "car": false,
       "price_usd": 59
     },
     {
@@ -105,6 +116,7 @@
       "material": "cotton blend",
       "style": "mountain pass print",
       "culture": "touge racers",
+      "car": false,
       "price_usd": 67
     },
     {
@@ -114,6 +126,7 @@
       "material": "cotton-poly blend",
       "style": "retro car art",
       "culture": "classic JDM",
+      "car": true,
       "price_usd": 62
     },
     {
@@ -123,6 +136,7 @@
       "material": "80% cotton, 20% polyester",
       "style": "side silhouette graphic",
       "culture": "Nissan S-chassis fans",
+      "car": true,
       "price_usd": 70
     },
     {
@@ -132,6 +146,7 @@
       "material": "cotton fleece",
       "style": "retro text logo",
       "culture": "AE86 / tofu culture",
+      "car": true,
       "price_usd": 65
     }
 ]

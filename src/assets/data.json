@@ -1,6 +1,6 @@
-{
-  "jdm_hoodies": [
+[
     {
+      "id": 1,
       "brand": "HardTuned",
       "name": "Skyline R34 Hoodie",
       "material": "80% cotton, 20% polyester",
@@ -9,6 +9,7 @@
       "price_usd": 75
     },
     {
+      "id": 2,
       "brand": "JDM Legends",
       "name": "Supra Turbo Hoodie",
       "material": "cotton blend",
@@ -17,6 +18,7 @@
       "price_usd": 70
     },
     {
+      "id": 3,
       "brand": "Inspire Japan",
       "name": "Kanji Drift Hoodie",
       "material": "fleece cotton",
@@ -25,6 +27,7 @@
       "price_usd": 60
     },
     {
+      "id": 4,
       "brand": "NightRunner",
       "name": "Midnight Run Hoodie",
       "material": "poly-cotton blend",
@@ -33,6 +36,7 @@
       "price_usd": 65
     },
     {
+      "id": 5,
       "brand": "Hoon Apparel",
       "name": "Rotary Engine Hoodie",
       "material": "cotton fleece",
@@ -41,6 +45,7 @@
       "price_usd": 68
     },
     {
+      "id": 6,
       "brand": "TokyoSpeed",
       "name": "Shuto Expressway Hoodie",
       "material": "100% cotton",
@@ -49,6 +54,7 @@
       "price_usd": 72
     },
     {
+      "id": 7,
       "brand": "TunedWear",
       "name": "EVO IX Hoodie",
       "material": "cotton-poly blend",
@@ -57,6 +63,7 @@
       "price_usd": 64
     },
     {
+      "id": 8,
       "brand": "Street Origin",
       "name": "Initial Drift Hoodie",
       "material": "fleece blend",
@@ -65,6 +72,7 @@
       "price_usd": 69
     },
     {
+      "id": 9,
       "brand": "GarageKulture",
       "name": "Turbocharged Hoodie",
       "material": "cotton blend",
@@ -73,6 +81,7 @@
       "price_usd": 66
     },
     {
+      "id": 10,
       "brand": "RacingSpirit",
       "name": "Type R VTEC Hoodie",
       "material": "cotton-poly mix",
@@ -81,6 +90,7 @@
       "price_usd": 63
     },
     {
+      "id": 11,
       "brand": "ImportNation",
       "name": "JDM Life Hoodie",
       "material": "soft fleece",
@@ -89,6 +99,7 @@
       "price_usd": 59
     },
     {
+      "id": 12,
       "brand": "Osaka Nights",
       "name": "Touge Battle Hoodie",
       "material": "cotton blend",
@@ -97,6 +108,7 @@
       "price_usd": 67
     },
     {
+      "id": 13,
       "brand": "KaidoWave",
       "name": "Classic Z Hoodie",
       "material": "cotton-poly blend",
@@ -105,6 +117,7 @@
       "price_usd": 62
     },
     {
+      "id": 14,
       "brand": "MidoriGarage",
       "name": "Silvia Drift Hoodie",
       "material": "80% cotton, 20% polyester",
@@ -113,6 +126,7 @@
       "price_usd": 70
     },
     {
+      "id": 15,
       "brand": "Project86",
       "name": "AE86 Heritage Hoodie",
       "material": "cotton fleece",
@@ -120,5 +134,4 @@
       "culture": "AE86 / tofu culture",
       "price_usd": 65
     }
-  ]
-}
+]

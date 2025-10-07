@@ -1,0 +1,124 @@
+{
+  "jdm_hoodies": [
+    {
+      "brand": "HardTuned",
+      "name": "Skyline R34 Hoodie",
+      "material": "80% cotton, 20% polyester",
+      "style": "car graphic",
+      "culture": "JDM streetwear",
+      "price_usd": 75
+    },
+    {
+      "brand": "JDM Legends",
+      "name": "Supra Turbo Hoodie",
+      "material": "cotton blend",
+      "style": "bold logo",
+      "culture": "Toyota enthusiasts",
+      "price_usd": 70
+    },
+    {
+      "brand": "Inspire Japan",
+      "name": "Kanji Drift Hoodie",
+      "material": "fleece cotton",
+      "style": "Japanese text print",
+      "culture": "drift scene",
+      "price_usd": 60
+    },
+    {
+      "brand": "NightRunner",
+      "name": "Midnight Run Hoodie",
+      "material": "poly-cotton blend",
+      "style": "reflective street design",
+      "culture": "street racing",
+      "price_usd": 65
+    },
+    {
+      "brand": "Hoon Apparel",
+      "name": "Rotary Engine Hoodie",
+      "material": "cotton fleece",
+      "style": "engine blueprint",
+      "culture": "Mazda RX7 fans",
+      "price_usd": 68
+    },
+    {
+      "brand": "TokyoSpeed",
+      "name": "Shuto Expressway Hoodie",
+      "material": "100% cotton",
+      "style": "minimalist logo",
+      "culture": "Tokyo expressway runs",
+      "price_usd": 72
+    },
+    {
+      "brand": "TunedWear",
+      "name": "EVO IX Hoodie",
+      "material": "cotton-poly blend",
+      "style": "car outline graphic",
+      "culture": "Mitsubishi fans",
+      "price_usd": 64
+    },
+    {
+      "brand": "Street Origin",
+      "name": "Initial Drift Hoodie",
+      "material": "fleece blend",
+      "style": "anime-inspired",
+      "culture": "Initial D enthusiasts",
+      "price_usd": 69
+    },
+    {
+      "brand": "GarageKulture",
+      "name": "Turbocharged Hoodie",
+      "material": "cotton blend",
+      "style": "turbo design",
+      "culture": "tuner culture",
+      "price_usd": 66
+    },
+    {
+      "brand": "RacingSpirit",
+      "name": "Type R VTEC Hoodie",
+      "material": "cotton-poly mix",
+      "style": "Honda racing logo",
+      "culture": "Honda community",
+      "price_usd": 63
+    },
+    {
+      "brand": "ImportNation",
+      "name": "JDM Life Hoodie",
+      "material": "soft fleece",
+      "style": "JDM text print",
+      "culture": "import scene",
+      "price_usd": 59
+    },
+    {
+      "brand": "Osaka Nights",
+      "name": "Touge Battle Hoodie",
+      "material": "cotton blend",
+      "style": "mountain pass print",
+      "culture": "touge racers",
+      "price_usd": 67
+    },
+    {
+      "brand": "KaidoWave",
+      "name": "Classic Z Hoodie",
+      "material": "cotton-poly blend",
+      "style": "retro car art",
+      "culture": "classic JDM",
+      "price_usd": 62
+    },
+    {
+      "brand": "MidoriGarage",
+      "name": "Silvia Drift Hoodie",
+      "material": "80% cotton, 20% polyester",
+      "style": "side silhouette graphic",
+      "culture": "Nissan S-chassis fans",
+      "price_usd": 70
+    },
+    {
+      "brand": "Project86",
+      "name": "AE86 Heritage Hoodie",
+      "material": "cotton fleece",
+      "style": "retro text logo",
+      "culture": "AE86 / tofu culture",
+      "price_usd": 65
+    }
+  ]
+}

@@ -7,21 +7,22 @@ export default function Card({ item }) {
         price += " Sale!"
     }
 
-    if(item.car){
-        // do something
+
+    if (item.style.toLowerCase().includes("logo")){
+        console.log(`${item.name} has a logo design!`);
     }
 
-    // if (style contains 'logo') {
-    // do something
-    // }
+    const isCarRelated = item.car === true || item.car === "true";
+
 
     return (
-        <div>
+        <div className="card">
         <h2>{item.brand}</h2>
         <h4>{item.name}</h4>
         <p>{item.material}</p>
         <p>{item.style}</p>
         <p>{item.culture}</p>
+        <p>Car-related: {isCarRelated ? "True" : "False"}</p>
         <p>{price}</p>
         <hr/>
         </div>

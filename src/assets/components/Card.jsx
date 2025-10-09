@@ -4,15 +4,22 @@ export default function Card({ item }) {
     let price = item.price_usd 
     if(price >= 70){
         price = price / 2
-        price += "  Sale!"
+        price = ~~price
+        price += " on sale now!"
     }
 
-
+    let style = item.name;
     if (item.style.toLowerCase().includes("logo")){
-        console.log(`${item.name} has a logo design!`);
+        style = `Features a car logo`
     }
 
-    const isCarRelated = item.car === true || item.car === "true";
+    let isCarRelated = item.car;
+    if(!isCarRelated){
+        isCarRelated = "";
+    }
+    else{
+        isCarRelated = "Features a car!"
+    }
 
 
     return (
@@ -20,9 +27,9 @@ export default function Card({ item }) {
         <h2>{item.brand}</h2>
         <h4>{item.name}</h4>
         <p>{item.material}</p>
-        <p>{item.style}</p>
+        <p>{style}</p>
         <p>{item.culture}</p>
-        <p>Car-related: {isCarRelated ? "True" : "False"}</p>
+        <p>{isCarRelated}</p>
         <p>Price: {price}</p>
         </div>
     );

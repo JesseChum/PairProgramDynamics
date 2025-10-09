@@ -5,7 +5,7 @@ export default function Card({ item }) {
     if(price >= 70){
         price = price / 2
         price = ~~price
-        price += " on sale now!"
+        price = "on sale now!"
     }
 
     let style = item.name;
@@ -29,7 +29,7 @@ export default function Card({ item }) {
         <p>{item.material}</p>
         <p>{style}</p>
         <p>{item.culture}</p>
-        <p>{isCarRelated}</p>
+        <p>{item.car}{isCarRelated}</p>
         <p>Price: {price}</p>
         </div>
     );

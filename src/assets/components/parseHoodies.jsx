@@ -6,6 +6,7 @@ export function parseHoodies(hoodies) {
     material: item.material ?? "",
     style: item.style ?? "",
     culture: item.culture ?? "",
+    car: item.car ?? false,
     price_usd: item.price_usd ?? 0
   }));
 }

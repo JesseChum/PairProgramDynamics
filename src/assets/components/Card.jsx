@@ -4,7 +4,7 @@ export default function Card({ item }) {
     let price = item.price_usd 
     if(price >= 70){
         price = price / 2
-        price += " Sale!"
+        price += "  Sale!"
     }
 
 
@@ -23,8 +23,7 @@ export default function Card({ item }) {
         <p>{item.style}</p>
         <p>{item.culture}</p>
         <p>Car-related: {isCarRelated ? "True" : "False"}</p>
-        <p>{price}</p>
-        <hr/>
+        <p>Price: {price}</p>
         </div>
     );
 }

@@ -1,16 +1,23 @@
 body{
-  background-color: rgb(167, 113, 195);
+  background-color: rgb(43, 1, 25);
+  font-family:'Courier New', Courier, monospace
 }
 
 header {
-  background-color: gray;
+  background-color: rgb(68, 0, 40);
   padding: 20px;
   text-align: center;
   border-radius: 10px;
 }
 
+a, header, footer{
+  font-style: none;
+  color: white;
+}
+
 .card-container {
-  display: flex;
+  grid-template-columns: 1fr 1fr 1fr;
+  display: grid;
   flex-wrap: wrap;
   justify-content: space-between;
   gap: 20px;
@@ -18,9 +25,17 @@ header {
 }
 
 .card {
-  border: 1px solid #ccc;
+  border: 1px solid #777676;
   border-radius: 10px;
-  padding: 15px;
+  padding: 16px 32px;
+  margin: 4px 2px;
   width: 220px;
-  background-color: grey;
+  background-color: rgb(167, 167, 167);
+  border: none;
+  font-size: 16px;
+}
+
+.card:hover{
+  background-color:rgb(218, 218, 218);
+  transition: 0.3s;
 }
